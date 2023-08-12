@@ -1,0 +1,39 @@
+.main{
+    width: 1728px;
+    height: 2358px;
+    font-family: Inter;
+    font-size: 40px;
+  }
+  .main2{
+    padding-left: 58px;
+  }
+  .blog-border{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    width: 1643px;
+    height: 648.571px;
+    padding-left: 51px;
+    margin-left: 31px;
+    margin-top: 47px;
+  }
+  .blog{
+    width: 1540.513px;
+    height: 613.544px;
+  }
+  .headings{
+    text-decoration-line: underline;
+    font-size: 64px;
+    font-weight: 700px;
+  }
+
+  .image{
+    width: 1051px;
+    height: 762px;
+    display: block;
+    margin-bottom: 34px;
+  }
+  .Trivia{
+    width: 1623px;
+    height: 469px;
+  }
